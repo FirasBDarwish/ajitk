@@ -5998,19 +5998,19 @@
   ],
   "images": [
     {
-      "uri": "./textures/Plane_006Shape_baseColor.png"
+      "uri": "textures/Plane_006Shape_baseColor.png"
     },
     {
-      "uri": "./textures/Plane_006Shape_emissive.jpeg"
+      "uri": "textures/Plane_006Shape_emissive.jpeg"
     },
     {
-      "uri": "./textures/PlaneShape_baseColor.png"
+      "uri": "textures/PlaneShape_baseColor.png"
     },
     {
-      "uri": "./textures/Plane_001Shape_baseColor.png"
+      "uri": "textures/Plane_001Shape_baseColor.png"
     },
     {
-      "uri": "./textures/Plane_002Shape_baseColor.jpeg"
+      "uri": "textures/Plane_002Shape_baseColor.jpeg"
     }
   ],
   "materials": [
